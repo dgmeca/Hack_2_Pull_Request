@@ -9,4 +9,4 @@
 
 | HermesBravo - Delta | https://github.com/dgmeca/hg_1_delta | 
 
-| Dangelo - Echo | link | 
+| Dangelo - Echo | https://github.com/dgmeca/hg_1_echo | 
