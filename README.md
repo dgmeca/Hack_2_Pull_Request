@@ -3,10 +3,10 @@
 
 | Dylan - Alfa  | https://github.com/dgmeca/hg_1_alfa |
 
-| David - Bravo  | https://github.com/davidjuo96/hg_1_bravo |
+| David - Bravo  | https://github.com/dgmeca/hg_1_bravo |
 
-| Oriana - Charlie | https://github.com/Orioreo08/hg_1_charlie | 
+| Oriana - Charlie | https://github.com/dgmeca/hg_1_charlie | 
 
-| HermesBravo - Delta | link | 
+| HermesBravo - Delta | https://github.com/dgmeca/hg_1_delta | 
 
 | Dangelo - Echo | link | 
